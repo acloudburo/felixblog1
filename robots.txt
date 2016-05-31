@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://felixblog1.curation.space/sitemap.xml
